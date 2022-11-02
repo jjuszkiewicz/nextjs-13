@@ -11,6 +11,17 @@ a {
   text-decoration: none;
 }
 
+nav {
+  padding: 2rem;
+  border: 1px solid black;
+  background-color: black;
+  color: white
+}
+
+main {
+  padding: 2rem;
+}
+
 * {
   box-sizing: border-box;
 }
